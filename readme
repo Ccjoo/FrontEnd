@@ -1,0 +1,10 @@
+Frontend
+if you want activate full project you have to merge at full project folder
+
+run frontend project by 'npm start' at backend directory
+
+if you run frontend project you have to download few package and library.
+
+you have to 'npm create-react-app' to build react app
+
+and library version is not important at now but if it takes error, you have to check our version at package.json
