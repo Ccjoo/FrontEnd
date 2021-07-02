@@ -172,8 +172,8 @@ class First extends Component {
                 <div className="caution">
                     <h3 style={this.state.posts}> 강아지 주의사항 </h3>
                     <p> {this.state.warning} </p>
-                    <hr />
                 </div>
+                <hr />
             </div>
 
             {/* Vital부분 */}
@@ -198,8 +198,8 @@ class First extends Component {
                     <img src="/images/vital/life.png" alt="기대 수명" /> <p style={this.state.posts}>기대 수명</p>
                     <p>{this.state.Vital_Status4}</p>
                 </div>
-                <hr />
             </div>
+            <hr />
         </div>
     );
     }
